@@ -15,13 +15,13 @@ st.markdown("### Provide your details to predict obesity level.")
 st.markdown("""
     <style>
         div.stSlider > div[data-baseweb="slider"] > div > div {
-            background: #0086eb !important;
+            
         }
         .stApp {
-            background-color: #f7f9fc;
+           
         }
         .title {
-            color: #0086eb;
+            
             font-weight: bold;
         }
     </style>
