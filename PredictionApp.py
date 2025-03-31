@@ -4,7 +4,7 @@ import joblib
 import pandas as pd
 # Load the trained model
 pipeline = joblib.load('NeuralNetwork_pipeline.joblib')
-a
+
 # Set page configuration
 st.set_page_config(page_title="Obesity Prediction", page_icon="🩺", layout="centered")
 
